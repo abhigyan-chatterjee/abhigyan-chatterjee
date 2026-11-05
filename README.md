@@ -1,7 +1,7 @@
 # Abhigyan Chatterjee
 
-Backend and systems engineer. I build tools people actually run: a placement platform that executes
-untrusted code, a package workflow CLI for Arch Linux, and internal tooling I shipped solo at LTM.
+Backend and systems engineer. I like the parts of software that sit close to the machine: process
+isolation, concurrency, and the failure paths nobody tests.
 
 [nullbit.in](https://nullbit.in) · [abhi@nullbit.in](mailto:abhi@nullbit.in) · [X](https://x.com/Nullbit_in) · [LinkedIn](https://www.linkedin.com/in/abhigyan-chatterjee/) · [Résumé](https://nullbit.in/assets/resume.pdf)
 
