@@ -3,7 +3,7 @@
 Backend and systems engineer. I build tools people actually run: a placement platform that executes
 untrusted code, a package workflow CLI for Arch Linux, and internal tooling I shipped solo at LTM.
 
-[nullbit.in](https://nullbit.in) · [abhi@nullbit.in](mailto:abhi@nullbit.in) · [LinkedIn](https://www.linkedin.com/in/abhigyan-chatterjee/) · [Résumé](https://nullbit.in/assets/resume.pdf)
+[nullbit.in](https://nullbit.in) · [abhi@nullbit.in](mailto:abhi@nullbit.in) · [X](https://x.com/Nullbit_in) · [LinkedIn](https://www.linkedin.com/in/abhigyan-chatterjee/) · [Résumé](https://nullbit.in/assets/resume.pdf)
 
 ---
 
