@@ -35,15 +35,6 @@ reimplementing either. AUR installs check for `-bin` variants (`prefer_bin`), PK
 and shown before building (`--inspect` aborts on failed fetch, `--diff` shows rebuild changes), and
 `doctor` runs 12 machine checks across 14 commands with `--json` output and SHA-256 verified self-updates.
 
-### eSim Manager — [source](https://github.com/abhigyan-chatterjee/esim-manager)
-
-One static Go binary that installs eSim's EDA dependencies across Debian, Arch and Fedora, detecting
-the distribution at runtime and mapping each tool to its family's package manager.
-
-### URL Checker — [source](https://github.com/abhigyan-chatterjee/URL-Checker)
-
-A character-level LSTM combined with seven handcrafted features over 651k labelled URLs, built to
-catch lookalike domains and obfuscated paths instead of hand-writing a rule for each one.
 
 ---
 
